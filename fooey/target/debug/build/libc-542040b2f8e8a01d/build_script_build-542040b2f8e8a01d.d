@@ -1,0 +1,5 @@
+/Users/jim/Git-Projects/fooey-cli/fooey/target/debug/build/libc-542040b2f8e8a01d/build_script_build-542040b2f8e8a01d: /Users/jim/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.117/build.rs
+
+/Users/jim/Git-Projects/fooey-cli/fooey/target/debug/build/libc-542040b2f8e8a01d/build_script_build-542040b2f8e8a01d.d: /Users/jim/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.117/build.rs
+
+/Users/jim/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.117/build.rs:
