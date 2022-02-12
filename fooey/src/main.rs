@@ -44,7 +44,6 @@ fn ask_to_hear_a_joke() -> std::io::Result<()> {
                 YES_ANSWER_CHOICE => tell_the_joke(),
                 NO_ANSWER_CHOICE => respond_to_no_fun_user(),
                 WHAT_KIND_ANSWER_CHOICE => respond_to_what_kind(),
-                // Err(e) => Err(e)
                 _ => panic!("oh no!"),
             }
         }
